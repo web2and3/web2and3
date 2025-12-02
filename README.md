@@ -67,7 +67,7 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 ## ☎️ Connect With Me
 
 <p align="center"> 
-<a href="https://t.me/koldguy"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+<a href="https://t.me/web2and3"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 &nbsp;
 <a href="https://discordapp.com/users/1053702868407963669"><img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png&color=000000" height="48px" width="48px" /></a>
 &nbsp;
