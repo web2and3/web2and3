@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Huzgrx](https://github.com/huzgrx)
+# 👋 Hi there, I'm [Web2and3](https://github.com/web2and3)
 
 ## 🚀 About Me
 
