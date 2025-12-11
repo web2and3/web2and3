@@ -13,7 +13,7 @@ I work across **blockchain, full-stack development, automation, and mobile apps*
 
 When I'm not coding, I'm exploring new tech, contributing to open-source, or sharing knowledge with other developers.
 
-<a href="https://t.me/share_cold_works"><img src="https://telegram-card.vercel.app/?username=share_cold_works" alt="@Cold works" style="max-width: 100%; height: auto;" /></a>
+<a href="https://t.me/hi_web2and3"><img src="https://telegram-card.vercel.app/?username=hi_web2and3" alt="@Cold works" style="max-width: 100%; height: auto;" /></a>
 
 ---
 
@@ -69,9 +69,9 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 <p align="center"> 
 <a href="https://t.me/web2and3"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
 &nbsp;
-<a href="https://discordapp.com/users/1053702868407963669"><img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png&color=000000" height="48px" width="48px" /></a>
+<a href="https://discordapp.com/users/1051068888407875604"><img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png&color=000000" height="48px" width="48px" /></a>
 &nbsp;
-<a href="https://github.com/huzgrx"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<a href="https://github.com/web2and3"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
 <a href="https://twitter.com/huzgrx"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 &nbsp;
