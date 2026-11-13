@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Web2and3** | 👨‍💻 Open to work
 
-### 🚀 Blockchain • Web3 • Full-Stack Developer
+### 🚀 AI • Blockchain • Web3 • Full-Stack Developer
 
 <p align="center">
 
@@ -56,5 +56,5 @@ When I'm not coding, I'm exploring new tech, contributing to open-source, or sha
 &nbsp;
 <a href="https://github.com/web2and3"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
-<a href="https://twitter.com/web2_and3"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href=""><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 </p>
